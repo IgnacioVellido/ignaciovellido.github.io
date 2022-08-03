@@ -1,0 +1,61 @@
+# - year:
+#   - title:
+#     authors:
+#     venue:
+#     link:
+
+- year: 2022
+  - title: Analyzing Driver Behavior Compliance under HoS Regulations.
+    authors: I. Vellido-Expósito, J. Fernández-Olivares, R. Pérez, L. Castillo
+    venue: Proceedings of the 8th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS
+    link: https://www.scitepress.org/Link.aspx?doi=10.5220/0011116200003191
+
+  # GNN
+  # - title:
+  #   authors:
+  #   venue:
+  #   link:
+  
+  # NLP
+  # - title:
+  #   authors:
+  #   venue:
+  #   link:
+
+- year: 2021
+  - title: Addressing HTN Planning with Blind Depth First Search
+    authors: J. Fernandez-Olivares, I. Vellido, L. Castillo
+    venue: 10th International Planning Competition: Planner and Domain Abstracts (IPC)
+    link: http://gki.informatik.uni-freiburg.de/competition/proceedings_p10-p13.pdf
+  
+  - title: A Proposal to Integrate Deep Q-Learning with Automated Planning to Improve the Performance of a Planning-Based Agent
+    authors: C. Núñez-Molina, I. Vellido, V. Nikolov-Vasilev, R. Pérez, J. Fdez-Olivares
+    venue: Conference of the Spanish Association for Artificial Intelligence, 23-32	
+    link: https://link.springer.com/chapter/10.1007/978-3-030-85713-4_3
+
+  - title: Planning from Video Game Descriptions
+    authors: I Vellido, C Núñez-Molina, V Nikolov, J Fdez-Olivares
+    venue: arXiv preprint arXiv:2109.00449
+    link: https://arxiv.org/pdf/2109.00449.pdf
+
+- year: 2020
+  - title: Goal Reasoning by Selecting Subgoals with Deep Q-Learning
+    authors: C. Núñez-Molina, V. Nikolov, I. Vellido, J. Fernández-Olivares
+    venue: arXiv preprint arXiv:2012.12335
+    link: https://arxiv.org/pdf/2012.12335.pdf
+
+  - title: A Knowledge Based Process for the Generation of HTN Domains from VGDL Video Game Descriptions
+    authors: I. Vellido, J. Fdez-Olivares, R. Pérez
+    venue: ICAPS2020 Workshop on Knowledge Engineering for Planning and Scheduling, 11-20	
+    link: https://icaps20subpages.icaps-conference.org/wp-content/uploads/2020/10/KEPS-2020_paper_17.pdf
+
+- year: Thesis
+  - title: Planning in Video Games
+    authors: I. Vellido, J. Fdez-Olivares
+    venue: Master Thesis in Data Science, 2021
+    link: https://github.com/IgnacioVellido/VGDL-PDDL/blob/main/doc/Thesis.pdf
+
+  - title: Automatic Generation of Domains
+    authors: I. Vellido, J. Fdez-Olivares
+    venue: Bachelor Thesis in Computer Science, 2020
+    link: https://github.com/IgnacioVellido/VGDL-to-HTN-Parser/blob/master/doc/Memoria.pdf
