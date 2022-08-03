@@ -22,10 +22,10 @@
 <div class="row">
     <div class="col-lg-8 col-lg-offset-2">
         {% for year in site.data.index.publications %}
-            <h1>{{ year.name }}</h1>
+            <h1>{{ year.year }}</h1>
             <ul style="list-style-type: none">
             
-                {% for publication in year %}
+                {% for publication in year.publications %}
                 <div class="entry">
                     <h2><strong>{{ publication.title }}</strong></h2>
                     {{ publication.authors }}
