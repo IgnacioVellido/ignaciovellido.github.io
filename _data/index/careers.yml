@@ -2,43 +2,43 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: AI and ML Researcher at University of Granada
-    i18n: -
+    i18n:
   desc:
     detail: Started working through my bachelor's third year with the Intelligent Systems group. Most projects revolved around applications of AI and ML for transportation and videogames. I also participated (and won) the Partial Order track in the 2020 International Planning Competition.
-    i18n: -
+    i18n:
   date:
     detail: Sept. 2019 - Present
-    i18n: -
+    i18n:
   job:
     detail: Machine Learning Engineer
-    i18n: -
+    i18n:
   icon: fa-microscope
   present: true
 
 - name:
     detail: Master’s degree in Data Science, University of Granada
-    i18n: -
+    i18n:
   desc:
     detail: Learned a lot of data analysis and machine learning techniques (gaussian regression, trees, neural networks, computer vision...).
-    i18n: -
+    i18n:
   date:
     detail: Sept. 2020 - Jun. 2021
-    i18n: -
+    i18n:
   job:
     detail: Bachelor Student
-    i18n: -
+    i18n:
   icon: fa-book
 
 - name:
     detail: Bachelor’s degree in Computer Science, University of Granada
-    i18n: -
+    i18n:
   desc:
     detail: Pursued specialization in Artificial Intelligence.
-    i18n: -
+    i18n:
   date:
     detail: Jun. 2016 - Sept. 2020
-    i18n: -
+    i18n:
   job:
     detail: Bachelor Student
-    i18n: -
+    i18n:
   icon: fa-book

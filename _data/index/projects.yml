@@ -2,35 +2,35 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Driver Assistance System
-  i18n: -
+  i18n:
   gh_user: IgnacioVellido
   repo: Driver-Assistance-System
   img: /static/assets/img/landing/jekyll.png
   desc: A Driver Assistance System (DAS) to both help truck drivers and traffic managers
 
 - name: VGDL-PDDL
-  i18n: -
+  i18n:
   gh_user: IgnacioVellido
   repo: VGDL-PDDL
   img: /static/assets/img/landing/python.png
   desc: A planning-based agent capable of playing from only VGDL game descriptions.
 
 - name: VGDL-to-HTN-Parser
-  i18n: -
+  i18n:
   gh_user: IgnacioVellido
   repo: VGDL-to-HTN-Parser
   img: /static/assets/img/landing/python.png
   desc: Automatic Generation of HTN Domains from VGDL Videogame Descriptions
 
 - name: Sentinel2
-  i18n: -
+  i18n:
   gh_user: IgnacioVellido
   repo: Kaggle-Sentinel2
   img: /static/assets/img/landing/python.png
   desc: A multi-input computer vision system to classify satellite images
 
 - name: Minesweeper
-  i18n: -
+  i18n:
   gh_user: IgnacioVellido
   repo: Minesweeper
   img: /static/assets/img/landing/python.png
