@@ -27,7 +27,7 @@
   publications:
     - title: Addressing HTN Planning with Blind Depth First Search
       authors: J. Fernandez-Olivares, I. Vellido, L. Castillo
-      venue: 10th International Planning Competition: Planner and Domain Abstracts (IPC)
+      venue: "10th International Planning Competition: Planner and Domain Abstracts (IPC)"
       link: http://gki.informatik.uni-freiburg.de/competition/proceedings_p10-p13.pdf
     
     - title: A Proposal to Integrate Deep Q-Learning with Automated Planning to Improve the Performance of a Planning-Based Agent
