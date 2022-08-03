@@ -5,7 +5,7 @@
   i18n:
   gh_user: IgnacioVellido
   repo: Driver-Assistance-System
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/truck.jpg
   desc: A Driver Assistance System (DAS) to both help truck drivers and traffic managers
 
 - name: VGDL-PDDL
@@ -26,12 +26,12 @@
   i18n:
   gh_user: IgnacioVellido
   repo: Kaggle-Sentinel2
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/satellite.jpg
   desc: A multi-input computer vision system to classify satellite images
 
 - name: Minesweeper
   i18n:
   gh_user: IgnacioVellido
   repo: Minesweeper
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/minesweeper.png
   desc: Simple Minesweeper game made in SDL
