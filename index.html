@@ -43,7 +43,7 @@ permalink: /
 </div>
 {% if site.index_carousel %}
 {% include carousel.html %}
-{% else}
+{% else %}
 <img src="{{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }}" alt="{{ site.data.index.banners[0].title }}" style="width:100%;">
 {% endif %}
 
