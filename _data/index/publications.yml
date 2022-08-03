@@ -56,10 +56,10 @@
   publications:
     - title: Planning in Video Games
       authors: I. Vellido, J. Fdez-Olivares
-      venue: Master Thesis in Data Science, 2021
+      venue: Master Thesis in Data Science, 2021 (in Spanish)
       link: https://github.com/IgnacioVellido/VGDL-PDDL/blob/main/doc/Thesis.pdf
 
     - title: Automatic Generation of Domains
       authors: I. Vellido, J. Fdez-Olivares
-      venue: Bachelor Thesis in Computer Science, 2020
+      venue: Bachelor Thesis in Computer Science, 2020 (in Spanish)
       link: https://github.com/IgnacioVellido/VGDL-to-HTN-Parser/blob/master/doc/Memoria.pdf
