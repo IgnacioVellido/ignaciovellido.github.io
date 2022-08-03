@@ -12,7 +12,7 @@
   job:
     detail: Machine Learning Engineer
     i18n:
-  icon: fa-microscope
+  icon: fa-search
   present: true
 
 - name:
