@@ -28,9 +28,7 @@ author:  # change following line to your information.
   skill_icon2:
     - name: fa-brands
     - name: icon-r-project
-  desc: "I'm a researcher focusing on Artificial Intelligence and Machine earning.
-  
-         Loves to do what I know and learn what I don't."  # Describe yourself.
+  desc: "I'm a researcher focusing on Artificial Intelligence and Machine earning. Loves to do what I know and learn what I don't."  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
