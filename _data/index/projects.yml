@@ -24,8 +24,7 @@
 
 - name: Sentinel2
   i18n:
-  gh_user: IgnacioVellido
-  repo: Kaggle-Sentinel2
+  url: https://github.com/IgnacioVellido/DS-Assignments/tree/main/MD-AA/Neural-Networks
   img: /static/assets/img/landing/satellite.jpg
   desc: A multi-input computer vision system to classify satellite images
 
