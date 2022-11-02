@@ -15,6 +15,13 @@
   img: /static/assets/img/landing/robot.png
   desc: A reinforcement learning environment to solve the Truck Scheduling Problem with hours of service
 
+- name: Routing-GNN
+  i18n:
+  gh_user: IgnacioVellido
+  repo: gym-TruckSchedulingHOS
+  img: /static/assets/img/landing/graph.png
+  desc: Graph Neural Networks for path routing
+
 - name: Unified Planning Library (contributor)
   i18n:
   gh_user: aiplan4eu
