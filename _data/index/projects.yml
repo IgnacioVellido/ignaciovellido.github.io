@@ -8,6 +8,20 @@
   img: /static/assets/img/landing/truck.jpg
   desc: A Driver Assistance System (DAS) to both help truck drivers and traffic managers
 
+- name: gym-TruckSchedulingHOS
+  i18n:
+  gh_user: IgnacioVellido
+  repo: gym-TruckSchedulingHOS
+  img: /static/assets/img/landing/robot.png
+  desc: A reinforcement learning environment to solve the Truck Scheduling Problem with hours of service
+
+- name: Unified Planning Library (contributor)
+  i18n:
+  gh_user: aiplan4eu
+  repo: unified-planning
+  img: /static/assets/img/landing/aiplan.png
+  desc: The AIPlan4EU Unified Planning Library
+
 - name: VGDL-PDDL
   i18n:
   gh_user: IgnacioVellido
@@ -21,6 +35,13 @@
   repo: VGDL-to-HTN-Parser
   img: /static/assets/img/landing/python.png
   desc: Automatic Generation of HTN Domains from VGDL Videogame Descriptions
+
+- name: HPDL-Planner (maintainer)
+  i18n:
+  gh_user: IgnacioVellido
+  repo: HPDL-Planner
+  img: /static/assets/img/landing/tree.jpg
+  desc: SIADEX - An HTN planner with temporal, partial order planning
 
 - name: Sentinel2
   i18n:
