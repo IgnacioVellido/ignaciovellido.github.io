@@ -15,12 +15,12 @@
   img: /static/assets/img/landing/robot.png
   desc: A reinforcement learning environment to solve the Truck Scheduling Problem with hours of service
 
-- name: Routing-GNN
+- name: Heuristics-GNNs
   i18n:
   gh_user: IgnacioVellido
-  repo: gym-TruckSchedulingHOS
+  repo: Heuristics-GNNs
   img: /static/assets/img/landing/graph.png
-  desc: Graph Neural Networks for path routing
+  desc: Graph Neural Networks to learn node heuristic values
 
 - name: Unified Planning Library (contributor)
   i18n:
