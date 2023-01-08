@@ -14,7 +14,7 @@ author:  # change following line to your information.
   name: Ignacio Vellido  # Be used at blog posts' author.
   first_name: Ignacio  # Be used at index page about me section.
   last_name: Vellido Expósito  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar2.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar2.JPG  # upload your avatar at directory and edit it.
   github_username: IgnacioVellido  # Leave blank if you don't have now
   linkedin_id: ignaciove # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
