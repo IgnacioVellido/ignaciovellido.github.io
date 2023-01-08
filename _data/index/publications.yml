@@ -4,24 +4,19 @@
 #     venue:
 #     link:
 
+- year: 2023
+  publications:
+    - title: Discovering and Explaining Driver Behaviour under HoS Regulations.
+      authors: I. Vellido-Expósito, J. Fernández-Olivares, R. Pérez
+      venue: arXiv preprint arXiv:2109.00449, submitted at the IEEE T-ITS journal
+      link: 
+
 - year: 2022
   publications:
     - title: Analyzing Driver Behavior Compliance under HoS Regulations.
       authors: I. Vellido-Expósito, J. Fernández-Olivares, R. Pérez, L. Castillo
       venue: Proceedings of the 8th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS
       link: https://www.scitepress.org/Link.aspx?doi=10.5220/0011116200003191
-
-  # GNN
-  # - title:
-  #   authors:
-  #   venue:
-  #   link:
-  
-  # NLP
-  # - title:
-  #   authors:
-  #   venue:
-  #   link:
 
 - year: 2021
   publications:
@@ -37,7 +32,7 @@
 
     - title: Planning from Video Game Descriptions
       authors: I Vellido, C Núñez-Molina, V Nikolov, J Fdez-Olivares
-      venue: arXiv preprint arXiv:2109.00449
+      venue: arXiv preprint arXiv:2109.00449, submitted at the Knowledge Engineering Review journal
       link: https://arxiv.org/pdf/2109.00449.pdf
 
 - year: 2020
