@@ -7,9 +7,9 @@
 - year: 2023
   publications:
     - title: Discovering and Explaining Driver Behaviour under HoS Regulations.
-      authors: I. Vellido-Expósito, J. Fernández-Olivares, R. Pérez
-      venue: arXiv preprint (pending upload), submitted at the IEEE T-ITS journal
-      link: 
+      authors: I. Vellido, J. Fdez-Olivares, R. Pérez
+      venue: arXiv preprint arXiv:2301.05082, submitted to the Information Fusion journal
+      link: https://arxiv.org/abs/2301.05082
 
 - year: 2022
   publications:
@@ -32,7 +32,7 @@
 
     - title: Planning from Video Game Descriptions
       authors: I Vellido, C Núñez-Molina, V Nikolov, J Fdez-Olivares
-      venue: arXiv preprint arXiv:2109.00449, submitted at the Knowledge Engineering Review journal
+      venue: arXiv preprint arXiv:2109.00449, submitted to the Knowledge Engineering Review journal
       link: https://arxiv.org/pdf/2109.00449.pdf
 
 - year: 2020
