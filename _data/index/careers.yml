@@ -12,7 +12,7 @@
   job:
     detail: Data Analyst, Model Validation Analyst
     i18n:
-  icon: fa-building-columns
+  icon: fa-bank
   present: true
 
 - name:
@@ -27,7 +27,7 @@
   job:
     detail: Machine Learning Engineer
     i18n:
-  icon: fa-institution
+  icon: fa-search
   present: false
 
 - name:
