@@ -27,7 +27,7 @@
   job:
     detail: Machine Learning Engineer
     i18n:
-  icon: fa-search
+  icon: fa-institution
   present: false
 
 - name:
