@@ -4,13 +4,13 @@
     detail: Market Risk Data & Model Analyst, Santander Bank
     i18n:
   desc:
-    detail:
+    detail: As a member of the Internal Validation Department, I am responsible for conducting validation and risk assessments of non-financial models, including Economic Research forecasts, Operational Risk, Compliance, and Anti-Money Laundering. Additionally, I am advancing the department's AI and software initiatives by contributing to the design of probabilistic models and financial algorithms, automating processes, and developing LLMs for decision-making and challenging market models.
     i18n:
   date:
     detail: Apr. 2023 - Present
     i18n:
   job:
-    detail: Data Analyst, Model Validation Analyst
+    detail: Data & Model Analyst
     i18n:
   icon: fa-bank
   present: true
@@ -19,7 +19,7 @@
     detail: AI & ML Researcher, University of Granada
     i18n:
   desc:
-    detail: Started working at the beginning my bachelor's third year with the Intelligent Systems group, and full time afterwards. Most projects revolved around applications of AI and ML for transportation and videogames, sometimes in collaboration with other companies. I also contributed to the Unified Planning library under the AIPLAN4EU project, and won the Partial Order track in the 2020 International Planning Competition.
+    detail: Started working at the beginning my bachelor's third year with the Intelligent Systems group, and full time afterwards. Most projects revolved around applications of AI and ML for transportation and video games, sometimes in collaboration with other industrial companies. I also contributed to the Unified Planning library under the AIPLAN4EU project, and won the Partial Order track in the 2020 International Planning Competition.
     i18n:
   date:
     detail: Sept. 2019 - Apr. 2023
