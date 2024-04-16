@@ -1,10 +1,10 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Market Risk Data & Model Analyst, Santander Bank
+    detail: Quantitative Model Risk Analyst, Santander Group
     i18n:
   desc:
-    detail: As a member of the Internal Validation Department, I am responsible for conducting validation and risk assessments of non-financial models, including Economic Research forecasts, Operational Risk, Compliance, and Anti-Money Laundering. Additionally, I am advancing the department's AI and software initiatives by contributing to the design of probabilistic models and financial algorithms, automating processes, and developing LLMs for decision-making and challenging market models.
+    detail: As a member of the Internal Validation Department, I am responsible for conducting validation, challenge and risk assessments of non-financial models, including Economic Research forecasts, Operational Risk, Compliance, and Anti-Money Laundering, with a focus in AI an ML. Additionally, I am advancing the department's software initiatives by contributing to the design of probabilistic models and financial algorithms, automating processes, and developing LLMs for decision-making.
     i18n:
   date:
     detail: Apr. 2023 - Present
