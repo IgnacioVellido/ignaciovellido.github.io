@@ -50,11 +50,11 @@
   img: /static/assets/img/landing/tree.jpg
   desc: SIADEX - An HTN planner with temporal, partial order planning
 
-- name: Sentinel2
+- name: AI-Competitions
   i18n:
-  url: https://github.com/IgnacioVellido/DS-Assignments/tree/main/MD-AA/Neural-Networks
+  url: https://github.com/IgnacioVellido/AI-competitions
   img: /static/assets/img/landing/satellite.jpg
-  desc: A multi-input computer vision system to classify satellite images
+  desc: Various challenges on DS, ML and CV
 
 - name: Minesweeper
   i18n:
