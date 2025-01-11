@@ -28,7 +28,7 @@ author:  # change following line to your information.
   skill_icon2:
     - name: fa-brands
     - name: icon-r-project
-  desc: "I'm a Data Scientist and Machine Learning Engineer with a passion for research in Reinforcement Learning, Computer Vision, Game Theory, and Robotics."  # Describe yourself.
+  desc: "I am an AI specialist with experience in finance, academic research and transportation. My personal interests lie in the Reinforcement Learning, Game Theory, Computer Vision, and Robotics areas of ML."  # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
